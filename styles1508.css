@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: green;
+}
+ol li{
+    color: red;
+}
+.blue{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+p{
+    font: 12px/25px Arial;
+    width: 500px;
+    text-align: justify;
+}
+.big{
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: red;
+}
+ul li{
+    font-style: italic;
+    width: 500px;
+    color:#8d3f5c;
+}
